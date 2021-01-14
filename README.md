@@ -1,6 +1,8 @@
 # Udacity-WhereAmI
 Third project for udacity nanodegree Robotics Software Engineer
 
+![My large image](LocaScreen.png)
+
 ### This folder contains the required structure files generated in the Udacity "Where am I" project submission
 
 Developed by **Rodrigo Montebello Saboya Brito** and the help of the internet including *Ros wiki and Udacity git hub repos*
